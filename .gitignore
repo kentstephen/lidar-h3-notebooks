@@ -1,0 +1,12 @@
+# DuckDB files (large, pre-computed data)
+duckdb/
+*.ddb
+*.ddb.wal
+
+# PDAL temp
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
